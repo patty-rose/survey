@@ -1,0 +1,23 @@
+body{
+  margin:20px;
+  background-color: rgb(47, 47, 99);
+  color:rgb(190, 255, 255);
+  font-size: 22px;
+}
+h1{
+  color:rgb(200, 145, 251);
+  font-weight: bolder;
+}
+#title{
+  text-align: left;
+  font-size: 25px;
+  font-weight: bolder;
+  color:rgb(200, 145, 251);
+}
+
+#surveyResults{
+  margin:20px;
+  padding:5px;
+  border:solid 3px;
+  background-color: rgb(99, 69, 105);
+}
